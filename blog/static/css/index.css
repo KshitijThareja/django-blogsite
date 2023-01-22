@@ -33,21 +33,21 @@ body{
     transform: translateY(-35%);
 }
 .banner .info h1{
-
+    margin-bottom: 3%;
     font-size: 2em;
     font-weight: 650;
     color: white;
     letter-spacing: 2px;
 }
 .banner .info p{
-    margin-top: 10%;
+    margin-top: 5%;
     color: white;
     letter-spacing: 2px;
     font-weight: 600;
 }
 .banner .info a{
     margin-left: 50%;
-    margin-top: 5%;
+   
     transform: translateX(-50%);
     color: #fff;
     border-color: #fff;
